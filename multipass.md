@@ -30,7 +30,10 @@ You can also use the --purge option to permanently delete an instance in a singl
 
 >><h2>How to use the Docker blueprint  
 The Docker blueprint gives Multipass users an easy way to create Ubuntu instances with Docker installed. It is based on the latest LTS release of Ubuntu, and includes docker engine and Portainer  
-To use the Docker blueprint, run **``multipass launch docker --name docker-vm``**, which will launch the docker-vm instance with default parameters.  
+To use the Docker blueprint, run **``multipass launch docker --name docker-vm``**, which will launch the docker-vm instance with default parameters.
+
 
 >><h2>Using the Alias   
-The alias command in Unix-like operating systems (such as Linux and macOS) is used to create shortcuts for frequently used commands. It allows you to define a custom alias or shorthand for a longer or more complex command, making it quicker and easier to execute. You'll need to add this to your shell configuration (.bashrc, .zshrc or so) for aliases to work without working with extra long commands
+The alias command in Unix-like operating systems (such as Linux and macOS) is used to create shortcuts for frequently used commands. It allows you to define a custom alias or shorthand for a longer or more complex command, making it quicker and easier to execute. You'll need to add this to your shell configuration (.bashrc, .zshrc or so) for aliases to work without working with extra long commands  
+
+If all of this literature and commnads are too boring and complex for you you could still use the graphical user interface with the portainer .you can check it out on this link [Click me!](https://docs.portainer.io)
