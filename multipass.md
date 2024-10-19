@@ -17,7 +17,7 @@ In its simplest form, you can use it to quickly create and destroy Ubuntu VMs (i
   of a virtual machine template or image, running its own operating system and functioning as a separate, independent
   computing environment.This instances could be created using the following commands
   __``multipass launch``__
-  But to create an instance with a specific image use the command``multipass launch jammy`` that is after running __``multipass find``__to check which images are available
+  But to create an instance with a specific image use the command``multipass launch jammy`` that is after running  __``multipass find``__ to check which images are available
   An existing instance that is in Stopped or Suspended status can be started with the multipass start command;
   - [x] __TO start__ use **``multipass start loving-duck``** given that loving-duck is the existing instance
   - [x] __TO stop__  use **``multipass stop loving-duck``** given that loving-duck is the existing instance
