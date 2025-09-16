@@ -10,24 +10,24 @@ Your comprehensive guide to Linux commands, shortcuts, and development tools. Na
 ## Documentation Sections
 
 ### System & Terminal
-- [**Linux System Commands**](docs/linux-commands.html) - Essential file operations, process management, and system commands
-- [**Terminal Shortcuts**](docs/terminal-shortcuts.html) - Bash/Zsh key bindings and command line editing
-- [**Terminal Tools**](docs/terminal-tools.html) - Modern CLI utilities (fd, ripgrep, fzf, htop)
-- [**Package Managers**](docs/package-managers.html) - APT, YUM, Pacman, Snap, Flatpak management
+- [**Linux System Commands**](https://onelrian.github.io/Documentation/docs/linux-commands.html) - Essential file operations, process management, and system commands
+- [**Terminal Shortcuts**](https://onelrian.github.io/Documentation/docs/terminal-shortcuts.html) - Bash/Zsh key bindings and command line editing
+- [**Terminal Tools**](https://onelrian.github.io/Documentation/docs/terminal-tools.html) - Modern CLI utilities (fd, ripgrep, fzf, htop)
+- [**Package Managers**](https://onelrian.github.io/Documentation/docs/package-managers.html) - APT, YUM, Pacman, Snap, Flatpak management
 
 ### Development Tools
-- [**Git Commands**](docs/git-commands.html) - Version control workflows and shortcuts
-- [**Docker Commands**](docs/docker-commands.html) - Container lifecycle and management
+- [**Git Commands**](https://onelrian.github.io/Documentation/docs/git-commands.html) - Version control workflows and shortcuts
+- [**Docker Commands**](https://onelrian.github.io/Documentation/docs/docker-commands.html) - Container lifecycle and management
 
 ### IDEs & Editors
-- [**VS Code Shortcuts**](docs/vscode-shortcuts.html) - Visual Studio Code productivity shortcuts
-- [**IntelliJ IDEA Shortcuts**](docs/intellij-shortcuts.html) - JetBrains IDEs navigation and refactoring
-- [**Vim/Neovim Commands**](docs/vim-commands.html) - Modal editing and advanced Vim techniques
-- [**Emacs Shortcuts**](docs/emacs-shortcuts.html) - GNU Emacs key bindings and commands
+- [**VS Code Shortcuts**](https://onelrian.github.io/Documentation/docs/vscode-shortcuts.html) - Visual Studio Code productivity shortcuts
+- [**IntelliJ IDEA Shortcuts**](https://onelrian.github.io/Documentation/docs/intellij-shortcuts.html) - JetBrains IDEs navigation and refactoring
+- [**Vim/Neovim Commands**](https://onelrian.github.io/Documentation/docs/vim-commands.html) - Modal editing and advanced Vim techniques
+- [**Emacs Shortcuts**](https://onelrian.github.io/Documentation/docs/emacs-shortcuts.html) - GNU Emacs key bindings and commands
 
 ### Virtualization & Networking
-- [**Multipass Commands**](docs/multipass-commands.html) - Ubuntu VM management and cloud-init
-- [**Network Commands**](docs/network-commands.html) - Network diagnostics, SSH, and security tools
+- [**Multipass Commands**](https://onelrian.github.io/Documentation/docs/multipass-commands.html) - Ubuntu VM management and cloud-init
+- [**Network Commands**](https://onelrian.github.io/Documentation/docs/network-commands.html) - Network diagnostics, SSH, and security tools
 
 ---
 

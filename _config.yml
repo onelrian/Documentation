@@ -15,20 +15,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation
-header_pages:
-  - docs/linux-commands.md
-  - docs/terminal-shortcuts.md
-  - docs/terminal-tools.md
-  - docs/package-managers.md
-  - docs/git-commands.md
-  - docs/docker-commands.md
-  - docs/vscode-shortcuts.md
-  - docs/intellij-shortcuts.md
-  - docs/vim-commands.md
-  - docs/emacs-shortcuts.md
-  - docs/multipass-commands.md
-  - docs/network-commands.md
+# Navigation - removed since using absolute URLs in homepage
 
 # Collections - REMOVED to use standard Jekyll pages
 
