@@ -1,3 +1,8 @@
+---
+layout: page
+title: Package Managers & System Administration
+---
+
 # Package Managers & System Administration
 
 ## APT (Debian/Ubuntu/Mint)

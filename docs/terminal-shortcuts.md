@@ -1,3 +1,8 @@
+---
+layout: page
+title: Linux Terminal Shortcuts & Key Bindings
+---
+
 # Linux Terminal Shortcuts & Key Bindings
 
 ## Bash/Zsh Command Line Editing

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Vim/Neovim Commands & Shortcuts
+---
+
 # Vim/Neovim Commands & Shortcuts
 
 ## Modes

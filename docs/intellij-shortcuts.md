@@ -1,3 +1,8 @@
+---
+layout: page
+title: IntelliJ IDEA & JetBrains IDEs Shortcuts
+---
+
 # IntelliJ IDEA & JetBrains IDEs Shortcuts
 
 ## General Shortcuts

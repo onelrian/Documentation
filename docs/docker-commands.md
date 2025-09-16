@@ -1,3 +1,8 @@
+---
+layout: page
+title: Docker Commands & Container Management
+---
+
 # Docker Commands & Container Management
 
 ## Basic Docker Operations

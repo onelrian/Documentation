@@ -1,4 +1,9 @@
-# Git Commands & Shortcuts
+---
+layout: page
+title: Git Commands & Workflows
+---
+
+# Git Commands & Workflows
 
 ## Basic Git Operations
 

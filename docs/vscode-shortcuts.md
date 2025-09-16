@@ -1,3 +1,8 @@
+---
+layout: page
+title: VS Code Keyboard Shortcuts
+---
+
 # VS Code Keyboard Shortcuts
 
 ## General Shortcuts
@@ -233,4 +238,6 @@ Replace `Ctrl` with `Cmd` for most shortcuts:
 - Some window management shortcuts may conflict with desktop environment
 - `Ctrl + Alt + T` typically opens system terminal (not VS Code terminal)
 
-This comprehensive list covers the most essential VS Code shortcuts for efficient development workflow.
+layout: page
+title: Visual Studio Code Shortcuts
+---

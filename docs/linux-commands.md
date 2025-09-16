@@ -1,3 +1,8 @@
+---
+layout: page
+title: Linux System Commands & Shortcuts
+---
+
 # Linux System Commands & Shortcuts
 
 ## File System Navigation

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Emacs Keyboard Shortcuts
+---
+
 # Emacs Keyboard Shortcuts
 
 ## Basic Navigation

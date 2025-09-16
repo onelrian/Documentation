@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terminal Tools & Utilities
+---
+
 # Terminal Tools & Utilities
 
 ## File Management Tools

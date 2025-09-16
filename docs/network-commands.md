@@ -1,3 +1,8 @@
+---
+layout: page
+title: Network Commands & Security Tools
+---
+
 # Network Commands & Security Tools
 
 ## Network Configuration

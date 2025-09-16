@@ -1,3 +1,8 @@
+---
+layout: page
+title: Multipass Commands & VM Management
+---
+
 # Multipass Commands & VM Management
 
 ## Installation and Setup
