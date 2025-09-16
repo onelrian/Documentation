@@ -2,7 +2,7 @@
 
 A comprehensive reference guide for Linux commands, shortcuts, and tools including IDEs, terminal utilities, system administration, and development tools.
 
-## 🌐 Live Documentation Site
+## Live Documentation Site
 **Access the full documentation at: [https://onelrian.github.io/Documentation/](https://onelrian.github.io/Documentation/)**
 
 ## About This Repository
