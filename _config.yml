@@ -1,0 +1,80 @@
+# Site settings
+title: "Linux Tools & Shortcuts Reference"
+description: "A comprehensive reference guide for Linux commands, shortcuts, and tools including IDEs, terminal utilities, system administration, and development tools."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - docs/linux-commands.md
+  - docs/vscode-shortcuts.md
+  - docs/vim-commands.md
+  - docs/intellij-shortcuts.md
+  - docs/emacs-shortcuts.md
+  - docs/git-commands.md
+  - docs/docker-commands.md
+  - docs/terminal-tools.md
+  - docs/network-commands.md
+  - docs/multipass-commands.md
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git/
+  - .gitignore
+
+# Include
+include:
+  - _pages
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# SEO settings
+author: "Linux Documentation Project"
+twitter:
+  username: ""
+social:
+  name: "Linux Tools Reference"
+  links: []
