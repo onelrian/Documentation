@@ -1,58 +1,51 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Linux Tools & Shortcuts Reference
 ---
 
 # Linux Tools & Shortcuts Reference
 
-A comprehensive reference guide for Linux commands, shortcuts, and tools including IDEs, terminal utilities, system administration, and development tools.
+Your comprehensive guide to Linux commands, shortcuts, and development tools. Navigate efficiently through terminal commands, IDE shortcuts, and system administration tools.
 
 ## Quick Navigation
 
-### System & Terminal
-- [**Linux System Commands**](/docs/linux-commands/) - Essential system commands and shortcuts
-- [**Terminal Shortcuts**](/docs/terminal-shortcuts/) - Comprehensive terminal key bindings and shortcuts
-- [**Terminal Tools**](/docs/terminal-tools/) - Command-line utilities and their shortcuts
-- [**Package Managers**](/docs/package-managers/) - APT, YUM, Pacman, Snap, Flatpak and system administration
-- [**Git Commands**](/docs/git-commands/) - Version control shortcuts and workflows
-- [**Docker Commands**](/docs/docker-commands/) - Container management and shortcuts
+### 🖥️System & Terminal
+- [**Linux System Commands**](/docs/linux-commands/) - Essential file operations, process management, and system commands
+- [**Terminal Shortcuts**](/docs/terminal-shortcuts/) - Bash/Zsh key bindings and command line editing
+- [**Terminal Tools**](/docs/terminal-tools/) - Modern CLI utilities (fd, ripgrep, fzf, htop)
+- [**Package Managers**](/docs/package-managers/) - APT, YUM, Pacman, Snap, Flatpak management
 
-### IDEs & Editors
-- [**VS Code Shortcuts**](/docs/vscode-shortcuts/) - Visual Studio Code keyboard shortcuts
-- [**IntelliJ IDEA Shortcuts**](/docs/intellij-shortcuts/) - JetBrains IDEs shortcuts
-- [**Vim/Neovim Commands**](/docs/vim-commands/) - Vim editor commands and shortcuts
-- [**Emacs Shortcuts**](/docs/emacs-shortcuts/) - Emacs editor shortcuts
+### 🛠️ Development Tools
+- [**Git Commands**](/docs/git-commands/) - Version control workflows and shortcuts
+- [**Docker Commands**](/docs/docker-commands/) - Container lifecycle and management
 
-### Virtualization & Networking
-- [**Multipass Commands**](/docs/multipass-commands/) - VM management with Multipass
-- [**Network Commands**](/docs/network-commands/) - Network troubleshooting and security tools
+### 💻 IDEs & Editors
+- [**VS Code Shortcuts**](/docs/vscode-shortcuts/) - Visual Studio Code productivity shortcuts
+- [**IntelliJ IDEA Shortcuts**](/docs/intellij-shortcuts/) - JetBrains IDEs navigation and refactoring
+- [**Vim/Neovim Commands**](/docs/vim-commands/) - Modal editing and advanced Vim techniques
+- [**Emacs Shortcuts**](/docs/emacs-shortcuts/) - GNU Emacs key bindings and commands
 
-## Features
+### 🌐 Virtualization & Networking
+- [**Multipass Commands**](/docs/multipass-commands/) - Ubuntu VM management and cloud-init
+- [**Network Commands**](/docs/network-commands/) - Network diagnostics, SSH, and security tools
 
-- **Comprehensive coverage** of Linux tools and IDEs
-- **Keyboard shortcuts** for maximum productivity
-- **Real-world examples** and use cases
-- **Cross-platform compatibility** notes where applicable
-- **Regular updates** with latest tool versions
-- **GitHub Pages deployment** for easy access
+## Quick Start Guide
 
-## How to Use This Guide
+1. **Find your tool** - Use the categories above or browser search (Ctrl+F)
+2. **Copy commands** - All examples are ready to use
+3. **Practice shortcuts** - Start with basic commands and build muscle memory
+4. **Bookmark sections** - Save frequently used references
 
-Each section includes:
-- **Command syntax** with examples
-- **Keyboard shortcuts** organized by function
-- **Tips and tricks** for power users
-- **Common use cases** and workflows
-- **Troubleshooting** common issues
+## Why This Guide?
 
-## Contributing
-
-Found a missing shortcut or command? Want to add a new tool? Contributions are welcome!
-
-1. Fork this repository
-2. Add your content following the existing format
-3. Submit a pull request
+- ✅ **Curated content** - Only the most useful commands and shortcuts
+- ✅ **Real examples** - Practical use cases with explanations
+- ✅ **Cross-platform** - Works on Ubuntu, Debian, CentOS, Arch, and more
+- ✅ **Always updated** - Latest tool versions and best practices
+- ✅ **Fast access** - Optimized for quick reference during work
 
 ---
+
+💡 **Tip**: Bookmark this page and use Ctrl+F to quickly find specific commands or tools.
 
 *This documentation is designed to be your go-to reference for Linux productivity tools and shortcuts.*

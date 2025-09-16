@@ -2,35 +2,23 @@
 
 A comprehensive reference guide for Linux commands, shortcuts, and tools including IDEs, terminal utilities, system administration, and development tools.
 
-## Table of Contents
+## 🌐 Live Documentation Site
+**Access the full documentation at: [https://onelrian.github.io/Documentation/](https://onelrian.github.io/Documentation/)**
 
-### System & Terminal
-- [Linux System Commands](/docs/linux-commands/) - Essential system commands and shortcuts
-- [Terminal Shortcuts](/docs/terminal-shortcuts/) - Comprehensive terminal key bindings and shortcuts
-- [Terminal Tools](/docs/terminal-tools/) - Command-line utilities and their shortcuts
-- [Package Managers](/docs/package-managers/) - APT, YUM, Pacman, Snap, Flatpak and system administration
+## About This Repository
+This repository contains the source files for a comprehensive Linux tools and shortcuts reference. The documentation is automatically deployed to GitHub Pages and provides an easy-to-navigate interface for finding Linux commands, IDE shortcuts, and development tools.
 
-### Development Tools
-- [Git Commands](/docs/git-commands/) - Version control shortcuts and workflows
-- [Docker Commands](/docs/docker-commands/) - Container management and shortcuts
+## Contributing
+We welcome contributions! Please feel free to:
+- Submit pull requests with new shortcuts or corrections
+- Report issues or suggest improvements
+- Add new tools or update existing documentation
 
-### IDEs & Editors
-- [VS Code Shortcuts](/docs/vscode-shortcuts/) - Visual Studio Code keyboard shortcuts
-- [IntelliJ IDEA Shortcuts](/docs/intellij-shortcuts/) - JetBrains IDEs shortcuts
-- [Vim/Neovim Commands](/docs/vim-commands/) - Vim editor commands and shortcuts
-- [Emacs Shortcuts](/docs/emacs-shortcuts/) - Emacs editor shortcuts
-
-### Virtualization & Networking
-- [Multipass Commands](/docs/multipass-commands/) - VM management with Multipass
-- [Network Commands](/docs/network-commands/) - Network troubleshooting and security tools
-
-
-## Quick Start
-
-1. **Browse by category** using the table of contents above
-2. **Search for specific commands** using Ctrl+F in your browser
-3. **Bookmark frequently used sections** for quick access
-4. **Contribute** by submitting pull requests with new shortcuts or corrections
+## Repository Structure
+- `docs/` - Documentation files (Markdown format)
+- `_config.yml` - Jekyll configuration
+- `index.md` - Homepage for the live site
+- `README.md` - This file (repository information)
 
 ## Features
 
