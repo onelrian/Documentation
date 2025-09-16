@@ -18,15 +18,17 @@ plugins:
 # Navigation
 header_pages:
   - docs/linux-commands.md
-  - docs/vscode-shortcuts.md
-  - docs/vim-commands.md
-  - docs/intellij-shortcuts.md
-  - docs/emacs-shortcuts.md
+  - docs/terminal-shortcuts.md
+  - docs/terminal-tools.md
+  - docs/package-managers.md
   - docs/git-commands.md
   - docs/docker-commands.md
-  - docs/terminal-tools.md
-  - docs/network-commands.md
+  - docs/vscode-shortcuts.md
+  - docs/intellij-shortcuts.md
+  - docs/vim-commands.md
+  - docs/emacs-shortcuts.md
   - docs/multipass-commands.md
+  - docs/network-commands.md
 
 # Collections - REMOVED to use standard Jekyll pages
 
@@ -54,11 +56,6 @@ exclude:
   - vendor/ruby/
   - .git/
   - .gitignore
-  - SHARING.md
-  - docs.txt
-  - multipass.md
-  - docs/getting-started.md
-  - docs/command-reference.md
 
 # Include
 include:

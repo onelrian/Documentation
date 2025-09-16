@@ -24,16 +24,6 @@ A comprehensive reference guide for Linux commands, shortcuts, and tools includi
 - [Multipass Commands](/docs/multipass-commands/) - VM management with Multipass
 - [Network Commands](/docs/network-commands/) - Network troubleshooting and security tools
 
-### System Administration
-- [System Monitoring](docs/system-monitoring.md) - Performance monitoring tools
-- [Log Management](docs/log-management.md) - Log files and analysis tools
-- [Cron & Scheduling](docs/cron-scheduling.md) - Task scheduling and automation
-- [User Management](docs/user-management.md) - User and group management
-
-### Quick References
-- [Cheat Sheets](docs/cheat-sheets/) - Quick reference cards
-- [Aliases & Functions](docs/aliases.md) - Useful shell aliases and functions
-- [Environment Setup](docs/environment-setup.md) - Development environment configuration
 
 ## Quick Start
 
