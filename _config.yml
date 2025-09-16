@@ -32,7 +32,7 @@ header_pages:
 collections:
   docs:
     output: true
-    permalink: /:collection/:name/
+    permalink: /docs/:name/
 
 # Defaults
 defaults:

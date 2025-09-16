@@ -5,24 +5,24 @@ A comprehensive reference guide for Linux commands, shortcuts, and tools includi
 ## Table of Contents
 
 ### System & Terminal
-- [Linux System Commands](docs/linux-commands.html) - Essential system commands and shortcuts
-- [Terminal Shortcuts](docs/terminal-shortcuts.html) - Comprehensive terminal key bindings and shortcuts
-- [Terminal Tools](docs/terminal-tools.html) - Command-line utilities and their shortcuts
-- [Package Managers](docs/package-managers.html) - APT, YUM, Pacman, Snap, Flatpak and system administration
+- [Linux System Commands](/docs/linux-commands/) - Essential system commands and shortcuts
+- [Terminal Shortcuts](/docs/terminal-shortcuts/) - Comprehensive terminal key bindings and shortcuts
+- [Terminal Tools](/docs/terminal-tools/) - Command-line utilities and their shortcuts
+- [Package Managers](/docs/package-managers/) - APT, YUM, Pacman, Snap, Flatpak and system administration
 
 ### Development Tools
-- [Git Commands](docs/git-commands.html) - Version control shortcuts and workflows
-- [Docker Commands](docs/docker-commands.html) - Container management and shortcuts
+- [Git Commands](/docs/git-commands/) - Version control shortcuts and workflows
+- [Docker Commands](/docs/docker-commands/) - Container management and shortcuts
 
 ### IDEs & Editors
-- [VS Code Shortcuts](docs/vscode-shortcuts.html) - Visual Studio Code keyboard shortcuts
-- [IntelliJ IDEA Shortcuts](docs/intellij-shortcuts.html) - JetBrains IDEs shortcuts
-- [Vim/Neovim Commands](docs/vim-commands.html) - Vim editor commands and shortcuts
-- [Emacs Shortcuts](docs/emacs-shortcuts.html) - Emacs editor shortcuts
+- [VS Code Shortcuts](/docs/vscode-shortcuts/) - Visual Studio Code keyboard shortcuts
+- [IntelliJ IDEA Shortcuts](/docs/intellij-shortcuts/) - JetBrains IDEs shortcuts
+- [Vim/Neovim Commands](/docs/vim-commands/) - Vim editor commands and shortcuts
+- [Emacs Shortcuts](/docs/emacs-shortcuts/) - Emacs editor shortcuts
 
 ### Virtualization & Networking
-- [Multipass Commands](docs/multipass-commands.html) - VM management with Multipass
-- [Network Commands](docs/network-commands.html) - Network troubleshooting and security tools
+- [Multipass Commands](/docs/multipass-commands/) - VM management with Multipass
+- [Network Commands](/docs/network-commands/) - Network troubleshooting and security tools
 
 ### System Administration
 - [System Monitoring](docs/system-monitoring.md) - Performance monitoring tools
