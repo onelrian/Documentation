@@ -46,6 +46,3 @@ Each section includes:
 - **Common use cases** and workflows
 - **Troubleshooting** common issues
 
----
-
-*Last updated: September 2024*
