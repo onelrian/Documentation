@@ -3,11 +3,11 @@ layout: home
 title: Home
 ---
 
-# Linux Tools & Shortcuts Reference 🐧
+# Linux Tools & Shortcuts Reference
 
 A comprehensive reference guide for Linux commands, shortcuts, and tools including IDEs, terminal utilities, system administration, and development tools.
 
-## 📚 Quick Navigation
+## Quick Navigation
 
 ### System & Terminal
 - [**Linux System Commands**](docs/linux-commands) - Essential system commands and shortcuts
@@ -27,16 +27,16 @@ A comprehensive reference guide for Linux commands, shortcuts, and tools includi
 - [**Multipass Commands**](docs/multipass-commands) - VM management with Multipass
 - [**Network Commands**](docs/network-commands) - Network troubleshooting and security tools
 
-## 🚀 Features
+## Features
 
-- ✅ **Comprehensive coverage** of Linux tools and IDEs
-- ✅ **Keyboard shortcuts** for maximum productivity
-- ✅ **Real-world examples** and use cases
-- ✅ **Cross-platform compatibility** notes where applicable
-- ✅ **Regular updates** with latest tool versions
-- ✅ **GitHub Pages deployment** for easy access
+- **Comprehensive coverage** of Linux tools and IDEs
+- **Keyboard shortcuts** for maximum productivity
+- **Real-world examples** and use cases
+- **Cross-platform compatibility** notes where applicable
+- **Regular updates** with latest tool versions
+- **GitHub Pages deployment** for easy access
 
-## 💡 How to Use This Guide
+## How to Use This Guide
 
 Each section includes:
 - **Command syntax** with examples
@@ -45,7 +45,7 @@ Each section includes:
 - **Common use cases** and workflows
 - **Troubleshooting** common issues
 
-## 🤝 Contributing
+## Contributing
 
 Found a missing shortcut or command? Want to add a new tool? Contributions are welcome!
 
