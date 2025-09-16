@@ -54,6 +54,11 @@ exclude:
   - vendor/ruby/
   - .git/
   - .gitignore
+  - SHARING.md
+  - docs.txt
+  - multipass.md
+  - docs/getting-started.md
+  - docs/command-reference.md
 
 # Include
 include:
